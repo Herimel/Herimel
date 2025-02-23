@@ -1,7 +1,7 @@
 
 # 💻 Tech Stack:
 
-![Basic Languages](https://img.shields.io/badge/language-c%20%7C%20c%2B%2B%20%7C%20java%20%7C%20python%20%7C%20javascript%20%7C%20html%20%7C%20css%20%7C%20typescript%20%7C%20sql%20%7C%20bash%20%7C%20shell%20script-blue)
+![Basic Languages](https://img.shields.io/badge/BASIC%20LANGUAGES-red)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -43,14 +43,14 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 
 
-![System](https://img.shields.io/badge/system-linux-green)
+![Systems](https://img.shields.io/badge/SYSTEMS-black)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 
 
-![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue)
+![IDEs](https://img.shields.io/badge/IDEs-purple)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
